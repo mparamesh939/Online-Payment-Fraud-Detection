@@ -1,4 +1,4 @@
-# 💳 Online Payment Fraud Detection using Machine Learning
+# 💳 Online Payment Fraud Detection using Machine Learning Models
 
 <p align="center">
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="500"/>
